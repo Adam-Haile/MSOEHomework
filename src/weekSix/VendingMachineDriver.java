@@ -1,4 +1,4 @@
-package hailea;
+package weekSix;
 
 import java.util.Scanner;
 
