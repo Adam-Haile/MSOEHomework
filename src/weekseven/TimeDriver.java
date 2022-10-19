@@ -17,9 +17,9 @@ public class TimeDriver {
         Time time = new Time();
 
         final int eight = 8;
-        final int fiftynine = 59;
+        final int fiftyNine = 59;
         time.setHours(eight);
-        time.setMinutes(fiftynine);
+        time.setMinutes(fiftyNine);
         time.setSeconds(0);
         time.printTime();
     }
